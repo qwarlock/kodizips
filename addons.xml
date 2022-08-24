@@ -125,4 +125,28 @@
         </assets>
     </extension>
 </addon>
+
+
+
+
+<addon id="plugin.videoi.qwarlock" version="0.0.1" name="Qwarlock" provider-name="qwarlock">
+    <requires>
+        <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+        <import addon="script.module.resolveurl" version="5.1.0" />
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">The Qwarlock plugin is a clone of The Promise which is based on Exodus.</summary>
+        <description lang="en">The Qwarlock plugin is a clone of The Promise which is based on Exodus.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+
+
+
 </addons>

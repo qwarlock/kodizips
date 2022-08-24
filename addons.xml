@@ -129,7 +129,7 @@
 
 
 
-<addon id="plugin.videoi.qwarlock" version="0.0.1" name="Qwarlock" provider-name="qwarlock">
+<addon id="plugin.video.qwarlock" version="0.0.1" name="Qwarlock" provider-name="qwarlock">
     <requires>
         <!-- <import addon="xbmc.python" version="2.1.0"/> -->
         <import addon="script.module.resolveurl" version="5.1.0" />
